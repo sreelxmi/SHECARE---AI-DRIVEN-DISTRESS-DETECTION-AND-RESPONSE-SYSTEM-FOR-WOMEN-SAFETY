@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.sqlite3
+
+# Media
+media/
+audio_recordings/
+
+# ML Models
+*.h5
+*.pkl
