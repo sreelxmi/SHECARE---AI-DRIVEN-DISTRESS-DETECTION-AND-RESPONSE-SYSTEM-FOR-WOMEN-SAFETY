@@ -23,3 +23,5 @@ audio_recordings/
 # Flutter build
 build/
 .metadata
+
+*.exe
