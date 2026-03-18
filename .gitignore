@@ -9,10 +9,17 @@ __pycache__/
 # Database
 *.sqlite3
 
-# Media
+# Media & recordings
 media/
 audio_recordings/
+*.jpg
+*.png
+*.wav
 
-# ML Models
+# ML models (very large)
 *.h5
 *.pkl
+
+# Flutter build
+build/
+.metadata
